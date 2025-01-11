@@ -1,4 +1,4 @@
-## NextFaster
+## NextFaster ([Video](https://www.youtube.com/watch?v=ltC-shDYc4M))
 
 A highly performant e-commerce template using Next.js and AI generated content by [@ethanniser](https://x.com/ethanniser), [@RhysSullivan](https://x.com/RhysSullivan) and [@armans-code](https://x.com/ksw_arman)
 
